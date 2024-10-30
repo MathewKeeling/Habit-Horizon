@@ -2,9 +2,7 @@
   <table>
     <tr>
       <td>
-        <a href="https://github.com/mathewkeeling/habit-horizon">
-          <img src="./resources/img/habit-horizon1.jpeg" alt="Habit Horizon" style="width: 300px; height: auto;">
-        </a>
+        <img src="./resources/img/habit-horizon1.jpeg" alt="Habit Horizon" style="width: 300px; height: auto;">
       </td>
       <td>
         <pre>
