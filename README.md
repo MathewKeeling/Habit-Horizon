@@ -2,7 +2,7 @@
   <table>
     <tr>
       <td>
-        <img src="./resources/img/habit-horizon1.jpeg" alt="Habit Horizon" style="width: 300px; height: auto;">
+        <img src="./resources/img/habit-horizon1.jpeg" alt="Habit Horizon" style="width: 160px; height: auto;">
       </td>
       <td>
         <pre>
