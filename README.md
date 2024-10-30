@@ -1,8 +1,18 @@
-<div align="Left">
+<div align="left">
   <table>
     <tr>
       <td>
         <img src="./resources/img/habit-horizon1.jpeg" alt="Habit Horizon" style="width: 300px; height: auto;">
+      </td>
+      <td>
+        <pre>
+  _   _       _     _ _     _   _            _                
+ | | | | __ _| |__ (_) |_  | | | | ___  _ __(_)_______  _ __  
+ | |_| |/ _` | '_ \| | __| | |_| |/ _ \| '__| |_  / _ \| '_ \ 
+ |  _  | (_| | |_) | | |_  |  _  | (_) | |  | |/ / (_) | | | |
+ |_| |_|\__,_|_.__/|_|\__| |_| |_|\___/|_|  |_/___\___/|_| |_|                                     
+                                                   v2024.10.30 
+        </pre>
       </td>
     </tr>
   </table>
